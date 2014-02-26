@@ -6,6 +6,8 @@ public class Class1 {
 		System.out.println("Master Branch");
 		System.out.println("Master Push2");
 
+		System.out.println("Master 3");
+
 	}
 
 }
