@@ -4,6 +4,7 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Master Branch");
+		System.out.println("Master Push2");
 
 	}
 
